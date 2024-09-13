@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Slot2
+namespace Slot3
 {
     internal class OnlineCourse : Course
     {
@@ -30,7 +30,11 @@ namespace Slot2
         {
             base.Display();
             Console.WriteLine($" - URL: {Url}");
+        }
 
+        public override string ToString()
+        {
+            return base.ToString() + $" - URL: {Url}";
         }
     }
 }

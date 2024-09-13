@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\bin\Debug\net8.0\BT2.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\bin\Debug\net8.0\BT2.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\bin\Debug\net8.0\BT2.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\bin\Debug\net8.0\BT2.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\bin\Debug\net8.0\BT2.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\refint\BT2.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\BT2.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\BT2\obj\Debug\net8.0\ref\BT2.dll
