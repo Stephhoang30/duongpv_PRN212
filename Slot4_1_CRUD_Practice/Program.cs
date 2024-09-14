@@ -6,7 +6,9 @@
         {
             
             Department d = new Department(001, "IT Department");
+
             Console.OutputEncoding = System.Text.Encoding.UTF8;
+
             while (true)
             {
                 Console.WriteLine("=========Menu=========");
@@ -33,7 +35,10 @@
                         d.RemoveEmployeeToDepartment(idToRemove);
                         break;
                     case 3:
-                        
+                        Console.WriteLine("Nhập Id cần cập nhật: ");
+                        int idToUpdate = int.Parse(Console.ReadLine());
+                        foreach (var e in d)
+                        d.UpdateEmployeeToDepartment(e);
                         break;
                     case 4:
                         Console.WriteLine(d.ToString());                       

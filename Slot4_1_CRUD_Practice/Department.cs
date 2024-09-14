@@ -23,12 +23,14 @@ namespace Slot4_1_CRUD_Practice
             Name = name;
         }
 
+        // Func to add employee
         public void AddEmployeeToDepartment(Employee e, Double salary)
         {
             DepartmentEmployee[e] = salary;
             Console.WriteLine("Add DONE!");
         }
 
+        // Func to remove employee
         public void RemoveEmployeeToDepartment(int EmployeeId)
         {
             Employee eToRemove = null;
@@ -49,19 +51,27 @@ namespace Slot4_1_CRUD_Practice
             }
         }
 
+        // Func to update employee
+        public void UpdateEmployeeToDepartment(Employee e)
+        {
+            
+        }
+
+
+        // Func to display info department and employee
         public override string ToString()
         {
             string result = "";
             foreach (var e in DepartmentEmployee)
             {
-                result += $"EmployeeName: {e.Key.FullName} - Salary: {e.Value}\n";
+                result += $"Name: {e.Key.FullName} - Salary: {e.Value}\n";
             }
             return $"Id: {Id} - Name: {Name}\nEmployee:\n{result}";
         }
 
+        // Func to display employee who has salary > salaryChecked
         public void ShowAll(double s)
         {
-            Console.Write($"Employee has salary > {s}:\n");
             foreach (var e in DepartmentEmployee)
             {
                 if (e.Value > s)

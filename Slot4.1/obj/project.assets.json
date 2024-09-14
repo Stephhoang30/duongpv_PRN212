@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Slot4.1.csproj",
-      "projectName": "Slot4.1",
-      "projectPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Slot4.1.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Slot4_1.csproj",
+      "projectName": "Slot4_1",
+      "projectPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Slot4_1.csproj",
       "packagesPath": "C:\\Users\\stephhoang\\.nuget\\packages\\",
       "outputPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\obj\\",
       "projectStyle": "PackageReference",
