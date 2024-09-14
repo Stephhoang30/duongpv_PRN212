@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8778b18f8915609ed478af766d025eec2957d4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb3ddf827ab9ecc50a87083ecf0787f893e95eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
