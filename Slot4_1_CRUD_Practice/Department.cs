@@ -60,7 +60,7 @@ namespace Slot4_1_CRUD_Practice
             Employee existEm = null;
 
             // lặp tim kiem employee co id can cap nhat
-            // gan vao danh dau la existEm
+            // gan vao obj moi la existEm
             foreach (var ex in DepartmentEmployee)
             {
                 if (ex.Key.Id == e.Id)
@@ -69,14 +69,13 @@ namespace Slot4_1_CRUD_Practice
                     break;
                 }
             }
-
-            // update thong tin
+      
             if (existEm != null)
             {
+                // update thong tin
                 existEm.FullName = e.FullName;
                 existEm.Dob = e.Dob;
                 existEm.Male = e.Male;
-
                 DepartmentEmployee[existEm] = addSalary();
 
                 Console.WriteLine("Update DONE!");

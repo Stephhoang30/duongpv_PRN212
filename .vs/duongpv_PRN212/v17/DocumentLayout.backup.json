@@ -9,7 +9,7 @@
       "AbsoluteMoniker": "D:0:0:{CC926821-D0C1-4092-9065-66D18CD4D9C9}|Slot4_1_CRUD_Practice\\Slot4_1_CRUD_Practice.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4_1_crud_practice\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFC6691-ACE7-4151-B44E-48FC05870D7F}|Slot4.1\\Slot4.1.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4.1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC926821-D0C1-4092-9065-66D18CD4D9C9}|Slot4_1_CRUD_Practice\\Slot4_1_CRUD_Practice.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4_1_crud_practice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{832C4D19-769F-426F-B871-4BE7C48ADB9B}|BT2\\BT2.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,6 +26,19 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Employee.cs",
+              "RelativeDocumentMoniker": "Slot4_1_CRUD_Practice\\Employee.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Employee.cs",
+              "RelativeToolTip": "Slot4_1_CRUD_Practice\\Employee.cs",
+              "ViewState": "AgIAAAQAAADAzczMzIwkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:24:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\BT2\\Program.cs",
@@ -34,21 +47,7 @@
               "RelativeToolTip": "BT2\\Program.cs",
               "ViewState": "AgIAAFMAAAAABgAAAIAowG0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:31:31.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Department.cs",
-              "RelativeDocumentMoniker": "Slot4.1\\Department.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4.1\\Department.cs",
-              "RelativeToolTip": "Slot4.1\\Department.cs",
-              "ViewState": "AgIAAC0AAACAMDMzM7MtwD0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:04:26.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T07:31:31.498Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Slot4_1_CRUD_Practice\\Department.cs",
               "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Department.cs",
               "RelativeToolTip": "Slot4_1_CRUD_Practice\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAADAKjMzM7MvwB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:48:28.97Z",
               "EditorCaption": ""
@@ -71,7 +70,7 @@
               "RelativeDocumentMoniker": "Slot4_1_CRUD_Practice\\Program.cs",
               "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Program.cs",
               "RelativeToolTip": "Slot4_1_CRUD_Practice\\Program.cs",
-              "ViewState": "AgIAABIAAAAAaGZmZmYswCcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAEwAAAAABwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:41:29.458Z",
               "EditorCaption": ""
