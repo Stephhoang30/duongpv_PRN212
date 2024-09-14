@@ -26,7 +26,7 @@
                     case 1:
                         Employee e = new Employee();
                         e.Input();
-                        double salary = addSalary();
+                        double salary = d.addSalary();
                         d.AddEmployeeToDepartment(e, salary);
                         break;
                     case 2:
@@ -35,16 +35,33 @@
                         d.RemoveEmployeeToDepartment(idToRemove);
                         break;
                     case 3:
-                        Console.WriteLine("Nhập Id cần cập nhật: ");
+
+                        // nhap vao id can nhap nhat
+                        Console.Write("Nhập vào Id cần cập nhật: ");
                         int idToUpdate = int.Parse(Console.ReadLine());
-                        foreach (var e in d)
-                        d.UpdateEmployeeToDepartment(e);
+
+                        // gan id do cho doi tuong moi
+                        Employee updateE = new Employee();
+                        updateE.Id = idToUpdate;
+
+                        // them thong tin cho doi tuong moi do
+                        Console.WriteLine("Nhập vào thông tin chi tiết:");
+                        Console.Write("Nhập tên: ");
+                        updateE.FullName = Console.ReadLine();
+                        Console.Write("Nhập ngày sinh: ");
+                        updateE.Dob = DateOnly.Parse(Console.ReadLine());
+                        Console.Write("Nhập giới tính: ");
+                        updateE.Male = bool.Parse(Console.ReadLine());
+
+                        // truyen doi tuong vao ham update de update vao dictionary
+                        d.UpdateEmployeeToDepartment(updateE);
                         break;
+
                     case 4:
                         Console.WriteLine(d.ToString());                       
                         break;
                     case 5:
-                        double salaryCheck = addSalary();
+                        double salaryCheck = d.addSalary();
                         d.ShowAll(salaryCheck);
                         break;
                     case 0:
@@ -58,11 +75,5 @@
             }
         }
 
-        public static Double addSalary ()
-        {
-            Console.Write("Nhập vào mức lương: ");
-            double salary = double.Parse(Console.ReadLine());
-            return salary;
-        }
     }
 }

@@ -48,13 +48,43 @@ namespace Slot4_1_CRUD_Practice
             {
                 DepartmentEmployee.Remove(eToRemove);
                 Console.WriteLine("Remove DONE!");
+            } else
+            {
+                Console.WriteLine("Employee not found!");
             }
         }
 
         // Func to update employee
         public void UpdateEmployeeToDepartment(Employee e)
         {
-            
+            Employee existEm = null;
+
+            // lặp tim kiem employee co id can cap nhat
+            // gan vao danh dau la existEm
+            foreach (var ex in DepartmentEmployee)
+            {
+                if (ex.Key.Id == e.Id)
+                {
+                    existEm = ex.Key;
+                    break;
+                }
+            }
+
+            // update thong tin
+            if (existEm != null)
+            {
+                existEm.FullName = e.FullName;
+                existEm.Dob = e.Dob;
+                existEm.Male = e.Male;
+
+                DepartmentEmployee[existEm] = addSalary();
+
+                Console.WriteLine("Update DONE!");
+
+            } else
+            {
+                Console.WriteLine("Employee not found!");
+            }
         }
 
 
@@ -79,6 +109,13 @@ namespace Slot4_1_CRUD_Practice
                     Console.WriteLine($"EName: {e.Key.FullName} - Salary: {e.Value}\n");
                 }
             }
+        }
+
+        public Double addSalary()
+        {
+            Console.Write("Nhập vào mức lương: ");
+            double salary = double.Parse(Console.ReadLine());
+            return salary;
         }
     }
 }

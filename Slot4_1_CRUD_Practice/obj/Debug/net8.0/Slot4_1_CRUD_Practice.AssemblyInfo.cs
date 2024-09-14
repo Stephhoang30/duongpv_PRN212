@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot4_1_CRUD_Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+430a81ea66e6e743a7efda4e28e1008723178618")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09db986e8d7e917f678a858409da9401b18c25d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot4_1_CRUD_Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot4_1_CRUD_Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
