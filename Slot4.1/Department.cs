@@ -11,7 +11,8 @@ namespace Slot4._1
         public int Id { get; set; }
         public string Name { get; set; }
 
-        private Dictionary<Employee, double> DepartmentEmployee = new();
+        // Key: Value
+        private Dictionary<Employee, double> DepartmentEmployee = new Dictionary<Employee, double>();
 
         public Department()
         {

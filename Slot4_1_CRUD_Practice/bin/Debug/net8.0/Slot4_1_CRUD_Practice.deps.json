@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slot4_1_CRUD_Practice/1.0.0": {
+        "runtime": {
+          "Slot4_1_CRUD_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot4_1_CRUD_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

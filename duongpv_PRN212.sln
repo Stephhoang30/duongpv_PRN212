@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot4", "Slot4\Slot4.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot4.1", "Slot4.1\Slot4.1.csproj", "{4EFC6691-ACE7-4151-B44E-48FC05870D7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot4_1_CRUD_Practice", "Slot4_1_CRUD_Practice\Slot4_1_CRUD_Practice.csproj", "{CC926821-D0C1-4092-9065-66D18CD4D9C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4EFC6691-ACE7-4151-B44E-48FC05870D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EFC6691-ACE7-4151-B44E-48FC05870D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EFC6691-ACE7-4151-B44E-48FC05870D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC926821-D0C1-4092-9065-66D18CD4D9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC926821-D0C1-4092-9065-66D18CD4D9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC926821-D0C1-4092-9065-66D18CD4D9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC926821-D0C1-4092-9065-66D18CD4D9C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

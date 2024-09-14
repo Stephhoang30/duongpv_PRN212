@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\bin\Debug\net8.0\Slot4_1_CRUD_Practice.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\bin\Debug\net8.0\Slot4_1_CRUD_Practice.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\bin\Debug\net8.0\Slot4_1_CRUD_Practice.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\bin\Debug\net8.0\Slot4_1_CRUD_Practice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\bin\Debug\net8.0\Slot4_1_CRUD_Practice.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\refint\Slot4_1_CRUD_Practice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\Slot4_1_CRUD_Practice.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot4_1_CRUD_Practice\obj\Debug\net8.0\ref\Slot4_1_CRUD_Practice.dll
