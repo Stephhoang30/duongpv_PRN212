@@ -11,10 +11,7 @@
             department.AddEmployeeToDepartment(emp1, 3500000);
             department.AddEmployeeToDepartment(emp2, 2800000);
 
-            Console.WriteLine(department.ToString());
-
-            Console.WriteLine("\nEmployees with salary > 3,000,000:");
-            department.ShowAll(3000000);
+            
         }
     }
 }

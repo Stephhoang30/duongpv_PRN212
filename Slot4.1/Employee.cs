@@ -8,13 +8,11 @@ namespace Slot4._1
 {
     internal class Employee
     {
-        // Public properties
         public int Id { get; set; }
         public string FullName { get; set; }
         public DateOnly Dob { get; set; }
         public bool Male { get; set; }
 
-        // Constructor
         public Employee(int id, string fullName, DateOnly dob, bool male)
         {
             Id = id;
@@ -23,7 +21,6 @@ namespace Slot4._1
             Male = male;
         }
 
-        // Override ToString()
         public override string ToString()
         {
             string gender = Male ? "Male" : "Female";
