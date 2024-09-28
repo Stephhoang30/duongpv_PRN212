@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\bin\Debug\net8.0\PE_SU24_B5.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\bin\Debug\net8.0\PE_SU24_B5.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\bin\Debug\net8.0\PE_SU24_B5.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\bin\Debug\net8.0\PE_SU24_B5.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\bin\Debug\net8.0\PE_SU24_B5.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\refint\PE_SU24_B5.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\PE_SU24_B5.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE_SU24_B5\obj\Debug\net8.0\ref\PE_SU24_B5.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Slot4
 {
-    internal class Student
+    internal class Student : IComparable<Student>
     {
         public int Id { get; set; }
         public string StudentCode { get; set; }
@@ -31,5 +31,11 @@ namespace Slot4
         {
             return $"Id: {Id} | Code: {StudentCode} | FullName: {FullName} | DOB: {DateOfBirth} | CPA: {CPA}";
         }
+
+        public int CompareTo(Student? other)
+        {
+            return other.CPA.CompareTo(CPA);
+        }
+
     }
 }

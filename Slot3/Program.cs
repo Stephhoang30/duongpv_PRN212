@@ -74,26 +74,34 @@ namespace Slot3
             Console.Write("Nhập ID Course cần xóa: ");
             int id = int.Parse(Console.ReadLine());
 
-            Course courseToRemove = null;
+            var cDelete = courseList.FirstOrDefault(c => c.Id == id);
 
-            foreach (Course course in courseList)
-            {
-                if (course.Id == id)
-                {
-                    courseToRemove = course;
-                    break;
-                }
-            }
+            courseList.Remove(cDelete);
 
-            if (courseToRemove != null)
-            {
-                courseList.Remove(courseToRemove);
-                Console.WriteLine("Đã xóa Course thành công!");
-            }
-            else
-            {
-                Console.WriteLine("Không tìm thấy Course với ID này.");
-            }
+            //var cDelete = courseList.Where(c => c.Id == id).ToList();
+
+            //courseList.Remove(cDelete[0]);        
+
+            //Course courseToRemove = null;
+
+            //foreach (Course course in courseList)
+            //{
+            //    if (course.Id == id)
+            //    {
+            //        courseToRemove = course;
+            //        break;
+            //    }
+            //}
+
+            //if (courseToRemove != null)
+            //{
+            //    courseList.Remove(courseToRemove);
+            //    Console.WriteLine("Đã xóa Course thành công!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Không tìm thấy Course với ID này.");
+            //}
         }
 
         // Hàm hiển thị tất cả các khóa học

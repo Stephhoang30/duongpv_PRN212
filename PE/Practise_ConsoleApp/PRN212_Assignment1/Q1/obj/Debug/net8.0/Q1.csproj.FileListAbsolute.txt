@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\bin\Debug\net8.0\Q1.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\bin\Debug\net8.0\Q1.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\bin\Debug\net8.0\Q1.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\bin\Debug\net8.0\Q1.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\refint\Q1.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\PE\Practise_ConsoleApp\PRN212_Assignment1\Q1\obj\Debug\net8.0\ref\Q1.dll

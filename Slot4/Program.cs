@@ -19,26 +19,65 @@
             new Student(10, "HE150010", "Duong Van J", new DateOnly(2001, 10, 30), 2.3)
             };
 
-            var ls_stds_by_Ho = getStudentsByHo(ls_stds);
+            //foreach (var s in ls_stds)
+            //{
+            //    if(2024 - s.DateOfBirth.Year > 20)
+            //    {
+            //        Console.WriteLine(s.FullName);
+            //    }
+            //}
 
-            foreach (var student in ls_stds_by_Ho)
+            //Console.WriteLine("==============================================================");
+            //var rs = from s in ls_stds
+            //         where (2024-s.DateOfBirth.Year > 20)
+            //         select s;
+            //foreach (var s in rs.ToList())
+            //{
+            //    Console.WriteLine(s.FullName);
+            //}
+
+            //Console.WriteLine("==============================================================");
+            //var rs1 = ls_stds.Where(s => 2024 - s.DateOfBirth.Year > 20).ToList();
+            //foreach (var s in rs1)
+            //{
+            //    Console.WriteLine(s.FullName);
+            //}
+
+            //Console.WriteLine("==============================================================");
+            //var rsHoNguyen = ls_stds.Where(s => s.FullName.StartsWith("Nguyen")).ToList();
+            //foreach (var s in rsHoNguyen)
+            //{
+            //    Console.WriteLine(s);
+            //}
+
+            List<int> ls = new List<int>() {3, 5, 7, 2, 8};
+
+            ls_stds.Sort(new StudentByFullName());
+            foreach (var s in ls_stds)
             {
-                Console.WriteLine(student);
+                Console.WriteLine(s.FullName);
             }
 
-            var ls_stds_by_CPA = getStudentByCPA(ls_stds);
+            //var ls_stds_by_Ho = getStudentsByHo(ls_stds);
 
-            foreach (var student in ls_stds_by_CPA)
-            {
-                Console.WriteLine(student);
-            }
+            //foreach (var student in ls_stds_by_Ho)
+            //{
+            //    Console.WriteLine(student);
+            //}
 
-            var ls_stds_by_age = getStudentByAge(ls_stds);
+            //var ls_stds_by_CPA = getStudentByCPA(ls_stds);
 
-            foreach (var student in ls_stds_by_age)
-            {
-                Console.WriteLine(student);
-            }
+            //foreach (var student in ls_stds_by_CPA)
+            //{
+            //    Console.WriteLine(student);
+            //}
+
+            //var ls_stds_by_age = getStudentByAge(ls_stds);
+
+            //foreach (var student in ls_stds_by_age)
+            //{
+            //    Console.WriteLine(student);
+            //}
 
         }
 
@@ -84,7 +123,7 @@
 
             var result = new List<Student>();
 
-            foreach(var student in ls_stds)
+            foreach (var student in ls_stds)
             {
                 if ((2024 - student.DateOfBirth.Year) < age)
                 {
@@ -94,7 +133,6 @@
 
             return result;
         }
-            
 
     }
 }

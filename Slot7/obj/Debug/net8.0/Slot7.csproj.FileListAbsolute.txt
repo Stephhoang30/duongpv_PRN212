@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\bin\Debug\net8.0\Slot7.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\bin\Debug\net8.0\Slot7.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\bin\Debug\net8.0\Slot7.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\bin\Debug\net8.0\Slot7.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\bin\Debug\net8.0\Slot7.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\refint\Slot7.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\Slot7.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\Slot7\obj\Debug\net8.0\ref\Slot7.dll

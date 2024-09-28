@@ -48,9 +48,6 @@ namespace Slot4_1_CRUD_Practice
             {
                 DepartmentEmployee.Remove(eToRemove);
                 Console.WriteLine("Remove DONE!");
-            } else
-            {
-                Console.WriteLine("Employee not found!");
             }
         }
 

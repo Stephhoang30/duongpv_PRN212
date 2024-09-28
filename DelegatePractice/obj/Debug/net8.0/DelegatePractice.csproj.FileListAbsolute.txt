@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\bin\Debug\net8.0\DelegatePractice.exe
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\bin\Debug\net8.0\DelegatePractice.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\bin\Debug\net8.0\DelegatePractice.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\bin\Debug\net8.0\DelegatePractice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\bin\Debug\net8.0\DelegatePractice.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\refint\DelegatePractice.dll
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.pdb
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\DelegatePractice.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\duongpv_PRN212\DelegatePractice\obj\Debug\net8.0\ref\DelegatePractice.dll
