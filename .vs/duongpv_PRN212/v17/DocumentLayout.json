@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67E197A2-053E-4717-9E3E-5EE8782FDB72}|Slot4\\Slot4.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4\\studentbyfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\demoevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|solutionrelative:demoevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67E197A2-053E-4717-9E3E-5EE8782FDB72}|Slot4\\Slot4.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\demoevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|solutionrelative:demoevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C827229-2E87-47AF-9370-E88B80703DC0}|PE_SU24_B5\\PE_SU24_B5.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe_su24_b5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE171830-7648-4052-A791-5598B3361241}|Slot7\\Slot7.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot7\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53448EEC-A4FF-4310-AAB9-533EF92308D8}|PE1\\PE1.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53448EEC-A4FF-4310-AAB9-533EF92308D8}|PE1\\PE1.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53448EEC-A4FF-4310-AAB9-533EF92308D8}|PE1\\PE1.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC926821-D0C1-4092-9065-66D18CD4D9C9}|Slot4_1_CRUD_Practice\\Slot4_1_CRUD_Practice.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4_1_crud_practice\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC926821-D0C1-4092-9065-66D18CD4D9C9}|Slot4_1_CRUD_Practice\\Slot4_1_CRUD_Practice.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot4_1_crud_practice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{832C4D19-769F-426F-B871-4BE7C48ADB9B}|BT2\\BT2.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\bt2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293301BA-9564-43A5-89C4-6C7F6138BADF}|Slot3\\Slot3.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot3\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{293301BA-9564-43A5-89C4-6C7F6138BADF}|Slot3\\Slot3.csproj|\\\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\slot3\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\demoevent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4196E66C-CCA4-441C-AD82-58B5A0AA8C40}|DemoEvent\\DemoEvent.csproj|solutionrelative:demoevent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,159 +45,48 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_SU24_B5\\Program.cs",
-              "RelativeDocumentMoniker": "PE_SU24_B5\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_SU24_B5\\Program.cs",
-              "RelativeToolTip": "PE_SU24_B5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:11:44.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DelegateDemo.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\DelegateDemo.cs",
-              "RelativeDocumentMoniker": "Slot7\\DelegateDemo.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\DelegateDemo.cs",
-              "RelativeToolTip": "Slot7\\DelegateDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:11:34.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Course.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Course.cs",
-              "RelativeDocumentMoniker": "PE1\\Course.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Course.cs",
-              "RelativeToolTip": "PE1\\Course.cs",
-              "ViewState": "AgIAABQAAAAAAwAAAAAkwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:11:16.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Program.cs",
-              "RelativeDocumentMoniker": "PE1\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Program.cs",
-              "RelativeToolTip": "PE1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:11:14.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Student.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Student.cs",
-              "RelativeDocumentMoniker": "PE1\\Student.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE1\\Student.cs",
-              "RelativeToolTip": "PE1\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\Student.cs",
+              "RelativeDocumentMoniker": "DemoEvent\\Student.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\Student.cs",
+              "RelativeToolTip": "DemoEvent\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:11:13.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T03:20:55.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Department.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Department.cs",
-              "RelativeDocumentMoniker": "Slot4_1_CRUD_Practice\\Department.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Department.cs",
-              "RelativeToolTip": "Slot4_1_CRUD_Practice\\Department.cs",
-              "ViewState": "AgIAAA8AAAAgnZmZmZkzwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:10:19.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Employee.cs",
-              "RelativeDocumentMoniker": "Slot4_1_CRUD_Practice\\Employee.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4_1_CRUD_Practice\\Employee.cs",
-              "RelativeToolTip": "Slot4_1_CRUD_Practice\\Employee.cs",
-              "ViewState": "AgIAABYAAABANzMzM7MXwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:10:15.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\BT2\\Teacher.cs",
-              "RelativeDocumentMoniker": "BT2\\Teacher.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\BT2\\Teacher.cs",
-              "RelativeToolTip": "BT2\\Teacher.cs",
-              "ViewState": "AgIAAAgAAADQAAAAAIApwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:10:11.92Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoEvent\\MainWindow.xaml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\MainWindow.xaml",
+              "RelativeToolTip": "DemoEvent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T03:56:33.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4\\Student.cs",
-              "RelativeDocumentMoniker": "Slot4\\Student.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4\\Student.cs",
-              "RelativeToolTip": "Slot4\\Student.cs",
-              "ViewState": "AgIAAAcAAAAwbGZmZiYgwAgAAAAxAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoEvent\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\DemoEvent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoEvent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAADAy8zMzEwqwCgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:08:43.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentByFullName.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4\\StudentByFullName.cs",
-              "RelativeDocumentMoniker": "Slot4\\StudentByFullName.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot4\\StudentByFullName.cs",
-              "RelativeToolTip": "Slot4\\StudentByFullName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:08:31.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OnlineCourse.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot3\\OnlineCourse.cs",
-              "RelativeDocumentMoniker": "Slot3\\OnlineCourse.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot3\\OnlineCourse.cs",
-              "RelativeToolTip": "Slot3\\OnlineCourse.cs",
-              "ViewState": "AgIAAAoAAABgzczMzGwzwB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:08:18.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Course.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot3\\Course.cs",
-              "RelativeDocumentMoniker": "Slot3\\Course.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot3\\Course.cs",
-              "RelativeToolTip": "Slot3\\Course.cs",
-              "ViewState": "AgIAAA4AAAAANDMzM9M8wBkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:07:52.736Z",
+              "WhenOpened": "2024-10-04T03:15:49.721Z",
               "EditorCaption": ""
             }
           ]

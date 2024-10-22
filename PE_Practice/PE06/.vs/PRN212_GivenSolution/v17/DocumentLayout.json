@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe_practice\\pe06\\question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe_practice\\pe06\\question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|c:\\mac\\home\\documents\\fall24\\prn212\\duongpv_prn212\\pe_practice\\pe06\\question2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\Models\\Employee.cs",
+              "RelativeToolTip": "Question2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:51:44.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Question2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAADILDMzM7MQwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:38:21.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2c73849a-cb73-43cb-bf8f-2d0fda32d064",
+        "Display": 0,
+        "X": 202,
+        "Y": 71,
+        "Width": 1266,
+        "Height": 1003,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE06\\Question2\\MainWindow.xaml",
+              "RelativeToolTip": "Question2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T02:16:37.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

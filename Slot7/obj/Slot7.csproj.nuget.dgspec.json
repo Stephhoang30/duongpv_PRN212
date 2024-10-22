@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj": {}
+    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj": {
+    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj",
         "projectName": "Slot7",
-        "projectPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\Slot7.csproj",
         "packagesPath": "C:\\Users\\stephhoang\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\obj\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\Slot7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stephhoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,34 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="546,124,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="542,150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sex" HorizontalAlignment="Left" Margin="545,176,0,0" VerticalAlignment="Top"/>
+        <Label Content="DOB" HorizontalAlignment="Left" Margin="542,202,0,0" VerticalAlignment="Top"/>
+        <Label Content="Position" HorizontalAlignment="Left" Margin="537,233,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnRefresh" Content="Refresh" HorizontalAlignment="Left" Margin="559,288,0,0" VerticalAlignment="Top" Click="btnRefresh_Click"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="638,288,0,0" VerticalAlignment="Top" Click="btnAdd_Click"/>
+        <Button x:Name="btnEdit" Content="Edit" HorizontalAlignment="Left" Margin="702,288,0,0" VerticalAlignment="Top" Click="btnEdit_Click"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Margin="628,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <RadioButton x:Name="male" Content="Male" HorizontalAlignment="Left" Margin="628,185,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="female" Content="Female" HorizontalAlignment="Left" Margin="686,185,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="DOB" HorizontalAlignment="Left" Margin="628,208,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbPos" HorizontalAlignment="Left" Margin="628,237,0,0" VerticalAlignment="Top" Width="120"/>
+        <DataGrid x:Name="dataGrid" Margin="0,113,292,0" SelectionChanged="dataGrid_SelectionChanged"  
+                  AutoGenerateColumns="True" 
+          CanUserAddRows="False" 
+          HorizontalAlignment="Stretch" 
+          VerticalAlignment="Stretch"/>
+
+        <TextBox x:Name="tbID" HorizontalAlignment="Left" Margin="628,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+
+    </Grid>
+</Window>
+
+    

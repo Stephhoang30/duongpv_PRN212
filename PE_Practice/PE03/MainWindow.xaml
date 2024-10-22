@@ -1,0 +1,58 @@
+﻿<Window x:Class="PE03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PE03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    <Grid>
+        <StackPanel Background="LightBlue" Margin="0,0,400,410">
+            
+            <TextBlock Text="Employee Information" FontSize="18" Foreground="Red" FontWeight="Bold"/>
+
+            <Label Content="Employee Id"/>
+            <TextBox x:Name="eid" Padding="5" Text="{Binding Id}" DataContext="{Binding SelectedItem, ElementName=listView}" IsEnabled="False"/>
+
+            <Label Content="Employee Name"/>
+            <TextBox x:Name="name" Padding="5" Text="{Binding Name}" DataContext="{Binding SelectedItem, ElementName=listView}"/>
+
+            <Label Content="Gender"/>
+            <DockPanel>
+                <RadioButton x:Name="male" Content="Male" IsChecked="True" />
+                <RadioButton x:Name="female" Content="Female" Margin="5,0,0,0" />
+            </DockPanel>
+            
+            <Label Content="Date of birth"/>
+            <DatePicker x:Name="datePicker" Text="{Binding Dob}" DataContext="{Binding SelectedItem, ElementName=listView}" />
+
+            <Label Content="Phone"/>
+            <TextBox x:Name="phone" Padding="5" Text="{Binding Phone}" DataContext="{Binding SelectedItem, ElementName=listView}"/>
+
+            <Label Content="IDNumber"/>
+            <TextBox x:Name="idNumber" Padding="5" Text="{Binding Idnumber}" DataContext="{Binding SelectedItem, ElementName=listView}"/>
+
+        </StackPanel>
+
+        <StackPanel Margin="0,370,400,350" Orientation="Horizontal" VerticalAlignment="Top">
+            <Button x:Name="btnRefresh" Content="Refresh" Width="80" Margin="5" Padding="5" />
+            <Button x:Name="btnAdd" Content="Add" Width="80" Margin="5" Padding="5" />
+            <Button x:Name="btnEdit" Content="Edit" Width="80" Margin="5" Padding="5" />
+            <Button x:Name="btnDelete" Content="Delete" Width="80" Margin="5" Padding="5" />
+        </StackPanel>
+
+        <ListView x:Name="listView" Margin="0,413,0,0" PreviewMouseLeftButtonUp="listView_Click" PreviewKeyDown="listView_Click" PreviewKeyUp="listView_Click">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Employee ID" Width="80" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Employee Name" Width="120" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Gender" Width="120" DisplayMemberBinding="{Binding Gender}"/>
+                    <GridViewColumn Header="Date of Birth" Width="140" DisplayMemberBinding="{Binding Dob, StringFormat='dd/MM/yyyy'}"/>
+                    <GridViewColumn Header="Phone" Width="160" DisplayMemberBinding="{Binding Phone}"/>
+                    <GridViewColumn Header="ID Number" Width="140" DisplayMemberBinding="{Binding Idnumber}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+    </Grid>
+</Window>

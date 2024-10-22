@@ -1,0 +1,61 @@
+﻿<Window x:Class="PE02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PE02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    <Grid>
+        
+        <StackPanel Margin="0,0,400,375" Background="LightBlue">
+
+            <TextBlock Text="Employee Information" FontSize="18" Foreground="Red" FontWeight="Bold"/>
+
+            <Label Content="Employee Id"></Label>
+            <TextBox Name="eid" Padding="5" IsEnabled="False"/>
+
+            <Label Content="FirstName"></Label>
+            <TextBox Padding="5" Name="firstname"/>
+
+            <Label Content="LastName"></Label>
+            <TextBox Padding="5" Name="lastname"/>
+
+            <Label Content="Department"></Label>
+            <ComboBox Width="180" HorizontalAlignment="Left" Name="cbDepartment"/>
+
+            <Label Content="Title"></Label>
+            <TextBox Padding="5" Name="title"/>
+
+            <Label Content="Title of Courtesy"></Label>
+            <ComboBox Width="46" HorizontalAlignment="Left" Name="cbTitleOfCourtesy"/>
+
+            <Label Content="Birthdate"></Label>
+            <DatePicker Name="dob"/>
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,405,10,0">
+            <Button Content="Refresh" Width="80" Margin="5" Padding="5" Name="bRefresh" Click="bRefresh_Click"></Button>
+            <Button Content="Add" Width="80" Margin="5" Padding="5" x:Name="bAdd" Click="bAdd_Click"/>
+            <Button Content="Edit" Width="80" Margin="5" Padding="10" Name="bEdit" Click="bEdit_Click"></Button>
+        </StackPanel>
+
+        <ListView Margin="0,460,0,0" Name="listView" SelectionChanged="listView_SelectionChanged" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Employee ID" Width="80" DisplayMemberBinding="{Binding Path=EmployeeID}"></GridViewColumn>
+                    <GridViewColumn Header="FirstName" Width="100" DisplayMemberBinding="{Binding Path=FirstName}"></GridViewColumn>
+                    <GridViewColumn Header="LastName" Width="120" DisplayMemberBinding="{Binding Path=LastName}"></GridViewColumn>
+                    <GridViewColumn Header="Department" Width="80" DisplayMemberBinding="{Binding Path=Department}"></GridViewColumn>
+                    <GridViewColumn Header="Title" Width="140" DisplayMemberBinding="{Binding Path=Title}"></GridViewColumn>
+                    <GridViewColumn Header="TitleOfCourtesy" Width="100" DisplayMemberBinding="{Binding Path=TitleOfCourtesy}"></GridViewColumn>
+                    <GridViewColumn Header="Birthdate" Width="190" DisplayMemberBinding="{Binding Path=Birthdate}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+        
+
+    </Grid>
+</Window>
