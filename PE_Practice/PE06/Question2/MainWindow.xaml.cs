@@ -61,7 +61,7 @@ namespace Question2
                     female.IsChecked = true;
                 }
 
-                DOB.SelectedDate = selectedEmployee.DOB.ToDateTime(new TimeOnly());
+                DOB.SelectedDate = selectedEmployee.DOB.ToDateTime(TimeOnly.MinValue);
 
                 cbPos.SelectedItem = selectedEmployee.Position;
             }
@@ -78,7 +78,7 @@ namespace Question2
             var newEmployee = new Employee
             {
                 Name = tbName.Text,
-                Dob = DateOnly.FromDateTime(DOB.SelectedDate.Value),
+                Dob = DateOnly.Parse(DOB.Text),
                 Sex = male.IsChecked == true ? "Male" : "Female",
                 Position = cbPos.SelectedItem.ToString()
             };

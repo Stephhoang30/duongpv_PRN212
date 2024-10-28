@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Q1\\Star.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:03:02.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:03:02.009Z"
             },
             {
               "$type": "Document",
@@ -71,23 +70,11 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Q1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "Q1\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAF8AAAAAoszMzMwcwG8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Q1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEYAAACAcGZmZqYrwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T02:02:48.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Q1\\MainWindow.xaml",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml",
-              "RelativeToolTip": "Q1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T02:02:32.769Z",
               "EditorCaption": ""
             }
           ]
@@ -99,6 +86,39 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "84778541-822e-4a22-a3ce-80bc69cd465a",
+        "Display": 0,
+        "X": 32,
+        "Y": 74,
+        "Width": 1528,
+        "Height": 1003,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Q1\\MainWindow.xaml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE07\\Q1\\MainWindow.xaml",
+              "RelativeToolTip": "Q1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T02:02:32.769Z",
+              "EditorCaption": ""
             }
           ]
         }
