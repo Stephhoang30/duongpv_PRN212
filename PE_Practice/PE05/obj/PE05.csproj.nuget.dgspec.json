@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\PE05.csproj": {}
+    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\PE05.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\PE05.csproj": {
+    "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\PE05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\PE05.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\PE05.csproj",
         "projectName": "PE05",
-        "projectPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\PE05.csproj",
+        "projectPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\PE05.csproj",
         "packagesPath": "C:\\Users\\stephhoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\obj\\",
+        "outputPath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stephhoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

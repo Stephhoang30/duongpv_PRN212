@@ -1,0 +1,44 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    <Grid>
+        <StackPanel Margin="0,0,400,422" Background="LightBlue">
+            <TextBlock FontSize="18" Foreground="#FFF31212" FontWeight="Bold">Add stars</TextBlock>
+            <Label Content="Star's name"></Label>
+            <TextBox x:Name="txbName" ></TextBox>
+            <Label Content="Gender"></Label>
+            <DockPanel>
+                <RadioButton x:Name="rdMale" Content="Male"></RadioButton>
+                <RadioButton x:Name="rdFemale" Content="Female"></RadioButton>
+            </DockPanel>
+            <Label Content="Date of birth"></Label>
+            <DatePicker x:Name="datePicker"></DatePicker>
+            <Label Content="Description"></Label>
+            <TextBox x:Name="txbDes" Height="101"></TextBox>
+            <Label Content="Nationality"></Label>
+            <ComboBox x:Name="cbNation" ></ComboBox>
+        </StackPanel>
+
+        <StackPanel Margin="42,378,0,352" Orientation="Horizontal" HorizontalAlignment="Left">
+            <Button x:Name="btnAdd" Content="Add To Below List" Margin="5"></Button>
+            <Button x:Name="btnImport" Content="Import From File" Margin="5" Click="btnImport_Click"></Button>
+            <Button x:Name="btnSave" Content="Save To Database" Margin="5"></Button>
+        </StackPanel>
+
+        <ListView x:Name="listView" Margin="0,446,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="StarName" Width="100"></GridViewColumn>
+                    <GridViewColumn Header="Gender" Width="100"></GridViewColumn>
+                    <GridViewColumn Header="DateOfBirth" Width="100"></GridViewColumn>
+                    <GridViewColumn Header="Description" Width="200"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

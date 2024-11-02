@@ -2,6 +2,7 @@
 using System.Collections.ObjectModel;
 using System.IO;
 using System.Text;
+using System.Text.Json;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -21,6 +22,8 @@ namespace Q1
     {
         // kieu ObservableCollection
         ObservableCollection<Star> listStars = new ObservableCollection<Star>();
+        ObservableCollection<StarJson> listStarsJson = new ObservableCollection<StarJson>();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -78,6 +81,8 @@ namespace Q1
 
         }
 
+
+
         public void ReadFromFile(string filename)
         {
 
@@ -100,15 +105,16 @@ namespace Q1
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog
-            {
-                Filter = "Text file (*.txt)|*.txt|All files (*.*)|*.*"
-            };
-            if (saveFileDialog.ShowDialog() == true)
-            {
-                WriteListToFile(listStars, saveFileDialog.FileName);
-                MessageBox.Show("List saved successfully.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
-            }
+            //SaveFileDialog saveFileDialog = new SaveFileDialog
+            //{
+            //    Filter = "Text file (*.txt)|*.txt|All files (*.*)|*.*"
+            //};
+            //if (saveFileDialog.ShowDialog() == true)
+            //{
+            //WriteListToFile(listStars, saveFileDialog.FileName);
+            WriteListToFile(listStars, txbPath.Text);
+            MessageBox.Show("List saved successfully.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+            //}
         }
         private void WriteListToFile(ObservableCollection<Star> list, string filePath)
         {
@@ -126,6 +132,43 @@ namespace Q1
             catch (Exception ex)
             {
                 MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void btnAddJson_Click(object sender, RoutedEventArgs e)
+        {
+            //OpenFileDialog openFile = new OpenFileDialog
+            //{
+            //    InitialDirectory = @"",
+            //    Multiselect = false
+            //};
+
+            //if (openFile.ShowDialog() == true)
+            //{
+            //    var fileName = openFile.FileName;
+            //    if (!string.IsNullOrEmpty(fileName) && File.Exists(fileName))
+            //    {
+            //        //ReadFromFile(fileName);
+            //        txbPath.Text = fileName;
+            //    }
+            //    else
+            //    {
+            //        MessageBox.Show("File does not exist.", "Error",
+            //            MessageBoxButton.OK, MessageBoxImage.Error);
+            //    }
+            //}
+
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "JSON files (*.json)|*.json";
+            if (openFileDialog.ShowDialog() == true)
+            {
+                string json = File.ReadAllText(openFileDialog.FileName);
+                var stars = JsonSerializer.Deserialize<List<StarJson>>(json);
+                foreach (var s in stars)
+                {
+                    listStarsJson.Add(s);
+                }
+                listView.ItemsSource = listStarsJson;
             }
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hZl9c2DWinE=",
+  "dgSpecHash": "kuVkrwMGO6c=",
   "success": true,
-  "projectFilePath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\PE_Practice\\PE05\\PE05.csproj",
+  "projectFilePath": "C:\\Mac\\Home\\Documents\\FALL24\\PRN212\\duongpv_PRN212\\PE_Practice\\PE05\\PE05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stephhoang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\stephhoang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

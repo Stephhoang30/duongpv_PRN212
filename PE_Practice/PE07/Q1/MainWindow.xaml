@@ -32,6 +32,8 @@
                 </GridView>
             </ListView.View>
         </ListView>
+        <Button x:Name="btnAddJson" Content="Add To Json" HorizontalAlignment="Left" Margin="338,302,0,0" VerticalAlignment="Top" Cursor="" Click="btnAddJson_Click"/>
+        <TextBox x:Name="txbPath" HorizontalAlignment="Left" Margin="283,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="137" IsEnabled="False" Height="31"/>
 
 
 
